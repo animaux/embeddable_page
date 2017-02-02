@@ -4,7 +4,7 @@ Allows you to add a page type `embeddable` to a symphony page in order to allow 
 
 ## Acknowledgements
 
-Many thanks to [Jonathan Mifsud](https://github.com/jonmifsud) for initial code! I also butchered the `maintenance_mode` extension in order to built this.
+Many thanks to [Jonathan Mifsud](https://github.com/jonmifsud) and [Michael E](https://github.com/michael-e) for initial code! I also butchered the `maintenance_mode` extension in order to built this.
 
 ## Installation & Updating
 

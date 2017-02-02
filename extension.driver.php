@@ -31,6 +31,7 @@ Class extension_embeddable_page extends Extension
             $frontendPage->removeHeaderFromPage('X-Frame-Options');
             $frontendPage->removeHeaderFromPage('Access-Control-Allow-Origin');
             $frontendPage->addHeaderToPage('X-Frame-Options','ALLOWALL');
+            $frontendPage->addHeaderToPage('Access-Control-Allow-Origin','*');
         }
 
     }
