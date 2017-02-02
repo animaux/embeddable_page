@@ -3,7 +3,7 @@
 	<name>Embeddable Page</name>
 	<description>Make a symphony page embeddable in an iFrame via page-types</description>
 	<repo type="github">https://github.com/animaux/embeddable_page</repo>
-	<url type="discuss"></url>
+	<url type="discuss">http://www.getsymphony.com/discuss/thread/112570/</url>
 	<types>
 		<type>Content Type</type>
 		<type>Security</type>
