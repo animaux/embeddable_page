@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="embeddable_page" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Embeddable Page</name>
+	<description>Make a symphony page embeddable in an iFrame via page-types</description>
+	<repo type="github">https://github.com/animaux/embeddable_page</repo>
+	<url type="discuss"></url>
+	<types>
+		<type>Content Type</type>
+		<type>Security</type>
+	</types>
+	<authors>
+		<author>
+			<name github="animaux" symphony="animaux">Alexander Rutz</name>
+			<website>http://animaux.de</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1" date="2017-02-02" min="2.6.x" max="2.x.x">
+			- Init
+		</release>
+	</releases>
+</extension>
